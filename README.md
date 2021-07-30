@@ -1,1 +1,5 @@
-# README.md
+- 👋 Hi, I’m @nikshit05
+- 👀 I’m interested in Software
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on GSoC and FOSSASIA
+- 📫 Reach me on Instagram @nixit05
